@@ -1,0 +1,2 @@
+this is the txt file for hw12 
+hello word 
